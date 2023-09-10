@@ -4,10 +4,10 @@ import { TbCircleDashed } from 'react-icons/tb'
 export const ProfileUserDetails = () => {
   return (
     <div className="py-10">
-      <div className="flex items-center ">
+      <div className="flex items-center space-x-16">
         <div className="w-[35%] ">
           <img
-            className="w-36 h-36 rounded-full"
+            className="w-40 h-40 rounded-full"
             src="https://cdn.pixabay.com/photo/2023/08/29/19/09/starling-8221990_640.jpg"
             alt="profile"
           />
