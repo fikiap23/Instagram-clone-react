@@ -1,4 +1,3 @@
-import React from 'react'
 import { TbCircleDashed } from 'react-icons/tb'
 
 export const ProfileUserDetails = () => {
